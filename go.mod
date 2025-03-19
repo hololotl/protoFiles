@@ -1,4 +1,4 @@
-module protoFile
+module github.com/hololotl/protoFile
 
 go 1.23.1
 
