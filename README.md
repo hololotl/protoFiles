@@ -3,11 +3,13 @@ This repository contains **Protocol Buffers (protobuf)** API definitions for pro
 
 # Repository structure
 
+```
 /protoFiles  
-├── sso/                   
-    ├── sso.pb.go
-    ├──sso_grpc.pb.go
-    └── sso.proto
+├── sso/  
+│   ├── sso.pb.go  
+│   ├── sso_grpc.pb.go  
+│   └── sso.proto  
+```
  
 
 ## There 2 options
